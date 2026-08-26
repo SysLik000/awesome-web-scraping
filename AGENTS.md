@@ -8,6 +8,7 @@ Before working in this repository, read:
 - `spec/docs/overview.md` — what this repository is, its content policy, and
   its layout
 - `spec/docs/conventions.md` — how the list documents are structured and formatted
+- `spec/docs/categories.md` — the canonical category tree shared by the lists
 - `spec/docs/agent-workflow.md` — how to keep docs in sync with the
   implementation
 

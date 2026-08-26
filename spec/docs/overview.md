@@ -25,6 +25,9 @@ of the relevant list; they are never inserted into the middle of a list.
 - `README.md` — Index of the list. Links to every language/domain list, plus
   Captcha Solving Services, Proxy Server Marketplaces, Telegram Discussion
   Groups, and contribution instructions
+- `AGENTS.md` — Entry point for coding agents; points to the spec docs
+- `spec/docs/` — Specifications: overview, conventions, categories,
+  agent workflow
 - `python.md` — Python packages
 - `php.md` — PHP packages
 - `ruby.md` — Ruby packages
