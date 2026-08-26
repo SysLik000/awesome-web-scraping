@@ -17,10 +17,9 @@ This list contains python libraries related to web scraping and data processing
 * [Concurrency](#concurrency)
 * [URL and Network Address](#url-and-network-address)
 * [Account Management](#account-management)
-* [Computer Vision](#computer-vision)
 * [Proxy Server](#proxy-server)
 * [Whois](#whois)
-* [JavaScript Engine Bindings](#javascript-engine-bindings)
+* [JavaScript Engine](#javascript-engine)
 * [Other Python Lists](#other-python-lists)
 
 ## Network
@@ -356,11 +355,6 @@ event loops.*
 ## Account Management
 * [ninjemail](https://github.com/david96182/ninjemail) - Python library for automated email account creation for different providers.
 
-## Computer Vision
-* [OpenCV](https://github.com/Itseez/opencv) - Open Source Computer Vision Library.
-* [SimpleCV](https://github.com/sightmachine/SimpleCV) - Concise, readable interface for cameras, image manipulation, feature extraction, and format conversion (based on OpenCV).
-* [mahotas](https://github.com/luispedro/mahotas) - fast computer vision algorithms (all implemented in C++) operating over numpy arrays.
-
 ## Proxy Server
 * [scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans
 * [ProxyBroker](https://github.com/constverum/Proxybroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS
@@ -371,7 +365,7 @@ event loops.*
 ## Whois
 * [python-whois](https://github.com/joepie91/python-whois) - A python module for retrieving and parsing WHOIS data
 
-## JavaScript Engine Bindings
+## JavaScript Engine
 * [Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python
 * [v8eval](https://github.com/sony/v8eval/) - Multi-language bindings to JavaScript engine V8
 

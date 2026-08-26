@@ -52,7 +52,7 @@ subcategories.
 13. **Account Management** — automated creation and operation of remote
     accounts.
 14. Standing single purpose categories: Proxy Server, Whois, JavaScript
-    Engine Bindings, Computer Vision.
+    Engine.
 15. **Other Lists** — links to sibling curated lists for the same language.
 
 New categories are added by updating this document first, so the tree stays
