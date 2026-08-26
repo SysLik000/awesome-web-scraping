@@ -2,7 +2,7 @@
 
 This list contains Java libraries related to web scraping and data processing
 
-* [FooLanguage Web Scraping](#javascript-web-scraping)
+* [Java Web Scraping](#java-web-scraping)
    * [Network](#network)
    * [Web-Scraping Frameworks](#web-scraping-frameworks)
    * [HTML/XML Parsing](#htmlxml-parsing)
@@ -20,7 +20,7 @@ This list contains Java libraries related to web scraping and data processing
    * [DNS Resolving](#dns-resolving)
    * [Computer Vision](#computer-vision)
    * [Proxy Server](#proxy-server)
-   * [Other FooLanguage Lists](#other-foolanguage-lists)
+   * [Other Java Lists](#other-java-lists)
 
 ## Network
 * General
@@ -129,6 +129,6 @@ This list contains Java libraries related to web scraping and data processing
 
 * TODO
 
-## Other FooLanguage lists
+## Other Java Lists
 
 * TODO
