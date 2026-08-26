@@ -1,0 +1,49 @@
+# Overview
+
+## What This Repository Is
+
+`awesome-web-scraping` is a curated "awesome list" of web-scraping resources:
+software packages, services, and manuals. Each resource is listed as a single
+markdown list entry with a link, a brief one-line description, and nothing more.
+The list is organized by programming language and tool category.
+
+## Content Policy
+
+This is a curated list, not a directory dump. Contributions are subject to
+restrictions; the authoritative rules live in `CONTRIBUTING.md`. In short, the
+following are not accepted:
+
+- Web services / websites / remote APIs — anything that is not standalone software
+- Fresh projects — anything younger than half a year
+- Anything related to automation with an AI agent or the Model Context Protocol (MCP)
+
+Contributions are made via pull requests. New entries are appended to the end
+of the relevant list; they are never inserted into the middle of a list.
+
+## Repository Layout
+
+- `README.md` — Index of the list. Links to every language/domain list, plus
+  Captcha Solving Services, Proxy Server Marketplaces, Telegram Discussion
+  Groups, and contribution instructions
+- `python.md` — Python packages
+- `php.md` — PHP packages
+- `ruby.md` — Ruby packages
+- `javascript.md` — JavaScript / Node.js packages
+- `golang.md` — Go packages
+- `java.md` — Java packages
+- `cli.md` — Command-line tools
+- `manuals.md` — Articles and books teaching web scraping
+- `CONTRIBUTING.md` — Contribution rules
+- `Makefile` — Builds HTML rendering of the list into `html/`
+- `.github/workflows/check_pr.yml` — CI workflow that rejects PRs containing
+  restricted words
+- `.gitignore` — Ignores editor artifacts, `html/`, and `Pipfile.lock`
+
+## How the List Is Organized
+
+- The README's Topics section links to each language/domain list file.
+- Every list file is self-contained: its own title, introduction, table of
+  contents, and sections.
+- The Python list is the largest and most granular; other language lists follow
+  the same general structure with fewer, flatter sections.
+- Each file ends with a section linking to related curated lists for that language.
