@@ -13,5 +13,5 @@ Before working in this repository, read:
 
 Note: `spec/docs/contribution.md` (contribution workflow) and
 `spec/docs/tooling.md` (build tools and CI) are planned but not yet written.
-Until they exist, see `CONTRIBUTING.md` for contribution rules and the
-`Makefile` and `.github/workflows/` for build and CI behavior.
+Until they exist, see `CONTRIBUTING.md` for contribution rules and
+`.github/workflows/` for CI behavior.
