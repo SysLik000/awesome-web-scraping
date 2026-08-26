@@ -164,7 +164,7 @@ Libraries for parsing and manipulating plain texts.
 
 * [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Parsing, formatting, storing and validating international phone numbers.
 
-### Text Processing :: User-Agent strings
+### Text Processing : User-Agent strings
 
 * [HTTP Agent Parser](https://github.com/shon/httpagentparser) - Python HTTP Agent Parser
 * [uap-python](https://github.com/ua-parser/uap-python) - Python implementation of ua-parser
@@ -176,13 +176,13 @@ Libraries for parsing and manipulating plain texts.
 
 * [reppy](https://github.com/seomoz/reppy) - Modern robots.txt Parser for Python
 
-### Text Processing :: Date and Time
+### Text Processing : Date and Time
 
 * [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features
 * [dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
 * [ciso8601](https://github.com/closeio/ciso8601) - converts ISO 8601 or RFC 3339 date time strings into Python datetime objects
 
-### Text Processing :: Price and Currency
+### Text Processing : Price and Currency
 
 * [price-parser](https://github.com/scrapinghub/price-parser) - a small library for extracting price and currency from raw text strings.
 
@@ -384,7 +384,7 @@ Libraries for parsing/modifying URLs, network addresses, domain names.
 
 Tools to automate multiple actions on a website.
 
-### Web Automation :: Content Extraction
+### Web Automation : Content Extraction
 
 * [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation in Python.
 * [python-goose](https://github.com/grangier/python-goose) - HTML Content/Article Extractor.
