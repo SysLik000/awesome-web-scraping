@@ -40,7 +40,7 @@ This list contains python libraries related to web scraping and data processing
 * [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
 * [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
 * [mechanize](https://github.com/python-mechanize/mechanize) - Stateful programmatic web browsing.
-* [socket](https://docs.python.org/3/library/socket.html) low-level networking interface (stdlib)
+* [socket](https://docs.python.org/3/library/socket.html) - low-level networking interface (stdlib)
 * [Unirest for Python](https://github.com/Mashape/unirest-python) - Unirest is a set of lightweight HTTP libraries available in multiple languages
 * [hyper](https://github.com/Lukasa/hyper) - HTTP/2 Client for Python
 * [PySocks](https://github.com/Anorov/PySocks) - Updated and actively maintained version of SocksiPy, with bug fixes and extra features. Acts as a drop-in replacement to the socket module.
