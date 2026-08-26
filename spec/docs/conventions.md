@@ -76,3 +76,13 @@ Rules:
 - Lines are wrapped at 88 characters.
 - Wrap at word boundaries; never split an inline code span, URL, or link
   destination across lines.
+
+## Web-Scraping Spelling
+
+- Use the hyphen (`web-scraping`) when the term directly modifies the noun that
+  follows it, e.g. `web-scraping framework` or `Web-Scraping Manuals`.
+- Use a space (`web scraping`) when the term is not attached to a following
+  noun: used as a noun, at the end of a phrase, or before a `:` delimiter, e.g.
+  `related to web scraping` or `### Web Scraping : Frameworks`.
+- This rule applies to our own headings and prose only. Project descriptions in
+  list entries are never rewritten for spelling.

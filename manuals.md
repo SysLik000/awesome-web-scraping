@@ -1,4 +1,4 @@
-# Web Scraping Manuals
+# Web-Scraping Manuals
 
 ## Table of Contents
 
@@ -7,7 +7,7 @@
   - [Information Availability](#information-availability)
   - [Information Granularity](#information-granularity)
   - [How to Contribute](#how-to-contribute)
-- [Web Scraping Articles and Topics](#web-scraping-articles-and-topics)
+- [Web-Scraping Articles and Topics](#web-scraping-articles-and-topics)
   - [HTML](#html)
   - [HTTP](#http)
   - [DNS](#dns)
@@ -51,7 +51,7 @@ Learning Web Scraping list.
 You may submit a new issue with an article or book you want to add. I will read the article or take a look at animals on
 a cover picture of the book and will decide is it worth to be included in the list.
 
-## Web Scraping Articles and Topics
+## Web-Scraping Articles and Topics
 
 ### HTML
 

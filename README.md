@@ -10,7 +10,7 @@ List of packages, services, and manuals related to web scraping.
 * [JavaScript](https://github.com/lorien/web-scraping/blob/master/javascript.md) - JavaScript packages
 * [Go](https://github.com/lorien/web-scraping/blob/master/golang.md) - Go packages
 * [Command Line Tools](https://github.com/lorien/web-scraping/blob/master/cli.md) - tools with a command line interface
-* [Web Scraping Manuals](https://github.com/lorien/awesome-web-scraping/blob/master/manuals.md) - list of articles and books teaching web scraping
+* [Web-Scraping Manuals](https://github.com/lorien/awesome-web-scraping/blob/master/manuals.md) - list of articles and books teaching web scraping
 * [dhamaniasad / HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - list of (almost) all headless web browsers in existence
 * [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPS providers
 * [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites

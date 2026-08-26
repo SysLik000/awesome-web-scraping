@@ -4,7 +4,7 @@ This list contains ruby libraries related to web scraping and data processing
 
 * [Ruby Web Scraping](#ruby-web-scraping)
    * [Network](#network)
-   * [Web-scraping Frameworks](#web-scraping-frameworks)
+   * [Web-Scraping Frameworks](#web-scraping-frameworks)
    * [HTML/XML Parsing](#htmlxml-parsing)
    * [Text processing](#text-processing)
    * [Specific Formats Processing](#specific-formats-processing)

@@ -4,7 +4,7 @@ This list contains PHP libraries related to web scraping and data processing
 
 * [PHP Web Scraping](#php-web-scraping)
    * [Network](#network)
-   * [Web-scraping Frameworks](#web-scraping-frameworks)
+   * [Web-Scraping Frameworks](#web-scraping-frameworks)
    * [HTML/XML Parsing](#htmlxml-parsing)
    * [Text processing](#text-processing)
    * [Specific Formats Processing](#specific-formats-processing)
