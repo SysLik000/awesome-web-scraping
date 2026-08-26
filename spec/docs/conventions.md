@@ -74,6 +74,9 @@ Rules:
 ## Line Length
 
 - Lines are wrapped at 88 characters.
+- The cap applies to internal documentation: `AGENTS.md` and `spec/docs/`.
+- List entries in the resource lists (`README.md`, language lists, `cli.md`,
+  `manuals.md`) are kept as single physical lines and are exempt.
 - Wrap at word boundaries; never split an inline code span, URL, or link
   destination across lines.
 
