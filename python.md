@@ -307,11 +307,13 @@ Libraries for working with human languages.
 * [kombu](https://github.com/celery/kombu) - Messaging library for Python
 
 ## Concurrency
+
+*Libraries and tools for concurrent programming: threads, processes,
+event loops.*
+
 * [threading](http://docs.python.org/3/library/threading.html) - standard python library to run threads. Effective for I/O-bound tasks. Useless for CPU-bound tasks because of python GIL.
 * [multiprocessing](http://docs.python.org/3/library/multiprocessing.html) - standard python library to run processes.
 * [concurrent-futures](https://docs.python.org/3/library/concurrent.futures.html) - The concurrent.futures module provides a high-level interface for asynchronously executing callables.
-Libraries for asynchronous networking programming.
-
 * [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library in Python 3.4+) Asynchronous I/O, event loop, coroutines and tasks.
 * [Twisted](https://twistedmatrix.com/trac/) - An event-driven networking engine.
 * [Tornado](http://www.tornadoweb.org/) - A Web framework and asynchronous networking library.
