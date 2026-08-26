@@ -18,7 +18,6 @@ This list contains Java libraries related to web scraping and data processing
    * [Asynchronous](#asynchronous)
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
-   * [Computer Vision](#computer-vision)
    * [Proxy Server](#proxy-server)
    * [Other Java Lists](#other-java-lists)
 
@@ -120,10 +119,6 @@ This list contains Java libraries related to web scraping and data processing
 
 * [dnsjava](http://www.dnsjava.org/)
 * [spotify-dns-java](https://github.com/spotify/dns-java)
-
-## Computer Vision
-
-* TODO
 
 ## Proxy Server
 

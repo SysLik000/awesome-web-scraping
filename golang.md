@@ -18,7 +18,6 @@ This list contains Golang libraries related to web scraping and data processing
    * [Asynchronous](#asynchronous)
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
-   * [Computer Vision](#computer-vision)
    * [Proxy Server](#proxy-server)
    * [Other Golang Lists](#other-Golang-lists)
 
@@ -182,10 +181,6 @@ This list contains Golang libraries related to web scraping and data processing
 
 * [net](https://golang.org/pkg/net/) - Built-in some DNS related functions.
 * [miekg/dns](https://github.com/miekg/dns) - A DNS library in Go.
-
-## Computer Vision
-
-* TODO
 
 ## Proxy Server
 

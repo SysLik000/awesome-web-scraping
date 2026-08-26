@@ -18,7 +18,6 @@ This list contains JavaScript libraries related to web scraping and data process
    * [Asynchronous](#asynchronous)
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
-   * [Computer Vision](#computer-vision)
    * [Proxy Server](#proxy-server)
    * [Data Structure](#data-structure)
    * [Captcha Solving](#captcha-solving)
@@ -199,10 +198,6 @@ This list contains JavaScript libraries related to web scraping and data process
 ## DNS Resolving
   * [multicast-dns](https://github.com/mafintosh/multicast-dns) - Low level multicast-dns implementation in pure javascript
   * [node-dns](https://github.com/tjfontaine/node-dns) - Replacement dns module in pure javascript for node.js
-
-## Computer Vision
-* [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
-* [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten.
 
 ## Proxy Server
   * [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate server failure scenarios and unexpected network conditions

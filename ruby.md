@@ -18,7 +18,6 @@ This list contains ruby libraries related to web scraping and data processing
    * [Web Content Extracting](#web-content-extracting)
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
-   * [Computer Vision](#computer-vision)
    * [Geolocation](#geolocation)
    * [Other Ruby Lists](#other-Ruby-lists)
 
@@ -271,10 +270,6 @@ This list contains ruby libraries related to web scraping and data processing
 ## DNS Resolving
 * [em-resolve-replace](https://github.com/mperham/em-resolv-replace) - EventMachine-aware pure Ruby DNS resolution
 * [Celluloid::DNS](https://github.com/celluloid/celluloid-dns) - a high-performance DNS client resolver and server which can be easily integrated into other projects or used as a stand-alone daemon. It was forked from RubyDNS which is now implemented in terms of this library.
-
-## Computer Vision
-
-* [ruby-opencv](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
 
 ## Geolocation
 

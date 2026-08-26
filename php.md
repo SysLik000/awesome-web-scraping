@@ -19,7 +19,6 @@ This list contains PHP libraries related to web scraping and data processing
    * [Asynchronous](#asynchronous)
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
-   * [Computer Vision](#computer-vision)
    * [Geocoding](#geocoding)
    * [API Clients](#api-clients)
    * [Other PHP Lists](#other-php-lists)
@@ -192,11 +191,6 @@ This list contains PHP libraries related to web scraping and data processing
 ## DNS Resolving
 
   * [Net_DNS2](https://github.com/mikepultz/netdns2) - Native PHP DNS Resolver and Updater
-
-
-## Computer Vision
-
-  * [OpenCV-for-PHP](https://github.com/mgdm/OpenCV-for-PHP) - An OpenCV binding for PHP
 
 
 ## Geocoding
