@@ -17,13 +17,10 @@ This list contains python libraries related to web scraping and data processing
 * [Concurrency](#concurrency)
 * [URL and Network Address](#url-and-network-address)
 * [Account Management](#account-management)
-* [WebSocket](#websocket)
-* [DNS Resolving](#dns-resolving)
 * [Computer Vision](#computer-vision)
 * [Proxy Server](#proxy-server)
 * [Whois](#whois)
 * [JavaScript Engine Bindings](#javascript-engine-bindings)
-* [Captcha Solving](#captcha-solving)
 * [Other Python Lists](#other-python-lists)
 
 ## Network
@@ -55,6 +52,18 @@ This list contains python libraries related to web scraping and data processing
 * [scapy](https://github.com/secdev/scapy) - powerful Python-based interactive packet manipulation program and library
 * [impacket](https://github.com/SecureAuthCorp/impacket/) - low-level programmatic access to the packets of network protocols
 
+### Network : WebSocket
+Libraries for working with WebSocket.
+
+* [Crossbar](https://github.com/crossbario/crossbar/) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn).
+* [AutobahnPython](https://github.com/tavendo/AutobahnPython) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
+* [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy.
+
+### Network : DNS
+* [dnspython](https://github.com/rthalley/dnspython) - a powerful DNS toolkit for python
+* [dnsyo](https://github.com/samarudge/dnsyo) - Check your DNS against over 1500 global DNS servers.
+* [pycares](https://github.com/saghul/pycares) -  interface to c-ares. c-ares is a C library that performs DNS requests and name resolutions asynchronously
+
 ## Web Scraping
 
 ### Web Scraping : Frameworks
@@ -80,6 +89,11 @@ This list contains python libraries related to web scraping and data processing
 
 ### Web Scraping : Bypass Protection
 * [cloudscraper](https://github.com/venomous/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
+* [captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to captcha solving services
+* [python-anticaptcha](https://github.com/ad-m/python-anticaptcha) - Client library for solve captchas with anti-captcha.com support
+* [python3-anticaptcha](https://github.com/AndreiDrang/python3-anticaptcha) - Python library for anti-captcha services
+* [unicaps](https://github.com/sergey-scat/unicaps) - a unified Python API for CAPTCHA solving services
+* [capmonstercloud-client](https://github.com/CapMonsterCloud/capmonster-python-captcha-solver) - Asynchronous Python library for CAPTCHA solving via CapMonster Cloud API
 
 ## HTML/XML Parsing
 
@@ -342,18 +356,6 @@ event loops.*
 ## Account Management
 * [ninjemail](https://github.com/david96182/ninjemail) - Python library for automated email account creation for different providers.
 
-## WebSocket
-Libraries for working with WebSocket.
-
-* [Crossbar](https://github.com/crossbario/crossbar/) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn).
-* [AutobahnPython](https://github.com/tavendo/AutobahnPython) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
-* [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy.
-
-## DNS Resolving
-* [dnspython](https://github.com/rthalley/dnspython) - a powerful DNS toolkit for python
-* [dnsyo](https://github.com/samarudge/dnsyo) - Check your DNS against over 1500 global DNS servers.
-* [pycares](https://github.com/saghul/pycares) -  interface to c-ares. c-ares is a C library that performs DNS requests and name resolutions asynchronously
-
 ## Computer Vision
 * [OpenCV](https://github.com/Itseez/opencv) - Open Source Computer Vision Library.
 * [SimpleCV](https://github.com/sightmachine/SimpleCV) - Concise, readable interface for cameras, image manipulation, feature extraction, and format conversion (based on OpenCV).
@@ -372,13 +374,6 @@ Libraries for working with WebSocket.
 ## JavaScript Engine Bindings
 * [Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python
 * [v8eval](https://github.com/sony/v8eval/) - Multi-language bindings to JavaScript engine V8
-
-## Captcha Solving
-* [captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to captcha solving services
-* [python-anticaptcha](https://github.com/ad-m/python-anticaptcha) - Client library for solve captchas with anti-captcha.com support
-* [python3-anticaptcha](https://github.com/AndreiDrang/python3-anticaptcha) - Python library for anti-captcha services
-* [unicaps](https://github.com/sergey-scat/unicaps) - a unified Python API for CAPTCHA solving services
-* [capmonstercloud-client](https://github.com/CapMonsterCloud/capmonster-python-captcha-solver) - Asynchronous Python library for CAPTCHA solving via CapMonster Cloud API
 
 ## Other Python Lists
 * [awesome-python](https://github.com/vinta/awesome-python)

@@ -14,10 +14,13 @@ subcategories.
    - `Network : Asynchronous` — async HTTP clients only, not general async
      frameworks.
    - `Network : Low Level` — sockets, TLS, packet crafting and sniffing.
+   - `Network : WebSocket` — WebSocket protocol client and server libraries.
+   - `Network : DNS` — DNS resolution toolkits.
 2. **Web Scraping** — crawl orchestration.
    - `Web Scraping : Frameworks` — full featured crawling frameworks.
    - `Web Scraping : Tools` — management UI, schedulers, crawler utilities.
-   - `Web Scraping : Bypass Protection` — HTTP-level anti-bot page handling.
+   - `Web Scraping : Bypass Protection` — HTTP-level anti-bot page handling
+     and captcha solving services.
 3. **HTML/XML Parsing** — parsing and querying markup documents.
    - `HTML/XML Parsing : General`
    - `HTML/XML Parsing : Sanitizing`
@@ -48,9 +51,8 @@ subcategories.
     - `URL and Network Address : Domain Names`
 13. **Account Management** — automated creation and operation of remote
     accounts.
-14. Standing single purpose categories: WebSocket, DNS Resolving, Proxy
-    Server, Whois, JavaScript Engine Bindings, Computer Vision, Captcha
-    Solving.
+14. Standing single purpose categories: Proxy Server, Whois, JavaScript
+    Engine Bindings, Computer Vision.
 15. **Other Lists** — links to sibling curated lists for the same language.
 
 New categories are added by updating this document first, so the tree stays
@@ -65,6 +67,7 @@ consistent across languages.
   even when implemented with an HTML parser.
 - Asynchronous HTTP clients go to `Network : Asynchronous`; event loop and
   coroutine machinery goes to `Concurrency`.
+- Captcha solving services belong to `Web Scraping : Bypass Protection`.
 - Every project appears exactly once: if two categories fit, pick the one
   matching the dominant use case and mention the secondary role in the
   entry description.
