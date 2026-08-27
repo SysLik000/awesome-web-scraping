@@ -287,7 +287,7 @@ Libraries for working with human languages.
 * [opengraph](https://github.com/erikriver/opengraph) - A Python module to parse the Open Graph Protocol tags
 
 ### Structured Formats : Portable Executable
-*  [pefile](https://github.com/erocarrera/pefile) - A multi-platform module to parse and work with Portable Executable (aka PE) files.
+* [pefile](https://github.com/erocarrera/pefile) - A multi-platform module to parse and work with Portable Executable (aka PE) files.
 
 ### Structured Formats : PSD
 * [psd-tools](https://github.com/kmike/psd-tools) - reading Adobe Photoshop PSD files (as described in [specification](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/PhotoshopFileFormats.htm)) to Python data structures.
