@@ -26,8 +26,12 @@ of the relevant list; they are never inserted into the middle of a list.
   Captcha Solving Services, Proxy Server Marketplaces, Telegram Discussion
   Groups, and contribution instructions
 - `AGENTS.md` — Entry point for coding agents; points to the spec docs
-- `spec/docs/` — Specifications: overview, conventions, categories,
+- `spec/docs/` — Specifications: overview, conventions, categories, tooling,
   agent workflow
+- `package.json` — Pins the Node tooling dependencies and `npm run check`
+  scripts
+- `tools/` — Markdown checkers: `check-md.mjs`, `check-sync.mjs`, helpers
+- `.githooks/` — Optional pre-commit hook running the checks
 - `python.md` — Python packages
 - `php.md` — PHP packages
 - `ruby.md` — Ruby packages
