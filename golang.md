@@ -18,7 +18,6 @@ This list contains Golang libraries related to web scraping and data processing
    * [Web Content Extracting](#web-content-extracting)
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
-   * [Proxy Server](#proxy-server)
    * [Other Golang Lists](#other-golang-lists)
 
 ## Network
@@ -181,11 +180,6 @@ This list contains Golang libraries related to web scraping and data processing
 
 * [net](https://golang.org/pkg/net/) - Built-in some DNS related functions.
 * [miekg/dns](https://github.com/miekg/dns) - A DNS library in Go.
-
-## Proxy Server
-
-* [gin](https://github.com/codegangsta/gin) - Live reload utility for Go web servers.
-* [Caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS, also can serve as a reverse proxy server.
 
 ## Other Golang lists
 

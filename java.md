@@ -18,7 +18,6 @@ This list contains Java libraries related to web scraping and data processing
    * [Web Content Extracting](#web-content-extracting)
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
-   * [Proxy Server](#proxy-server)
    * [Other Java Lists](#other-java-lists)
 
 ## Network
@@ -119,10 +118,6 @@ This list contains Java libraries related to web scraping and data processing
 
 * [dnsjava](http://www.dnsjava.org/) - DNS protocol implementation and resolver library
 * [spotify-dns-java](https://github.com/spotify/dns-java) - Service discovery via DNS SRV record lookups
-
-## Proxy Server
-
-* TODO
 
 ## Other Java Lists
 
