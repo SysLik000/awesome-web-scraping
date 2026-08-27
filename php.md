@@ -19,7 +19,6 @@ This list contains PHP libraries related to web scraping and data processing
    * [Web Content Extracting](#web-content-extracting)
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
-   * [Geocoding](#geocoding)
    * [Other PHP Lists](#other-php-lists)
 
 
@@ -190,12 +189,6 @@ This list contains PHP libraries related to web scraping and data processing
 ## DNS Resolving
 
   * [Net_DNS2](https://github.com/mikepultz/netdns2) - Native PHP DNS Resolver and Updater
-
-
-## Geocoding
-
-* [GeoCoder](http://geocoder-php.org/) - A geocoding library.
-* [GeoTools](https://github.com/php-loep/Geotools) - A library of geo-related tools.
 
 
 ## Other PHP lists

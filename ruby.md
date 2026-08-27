@@ -18,7 +18,6 @@ This list contains ruby libraries related to web scraping and data processing
    * [Web Content Extracting](#web-content-extracting)
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
-   * [Geolocation](#geolocation)
    * [Other Ruby Lists](#other-ruby-lists)
 
 ## Network
@@ -270,12 +269,6 @@ This list contains ruby libraries related to web scraping and data processing
 ## DNS Resolving
 * [em-resolve-replace](https://github.com/mperham/em-resolv-replace) - EventMachine-aware pure Ruby DNS resolution
 * [Celluloid::DNS](https://github.com/celluloid/celluloid-dns) - a high-performance DNS client resolver and server which can be easily integrated into other projects or used as a stand-alone daemon. It was forked from RubyDNS which is now implemented in terms of this library.
-
-## Geolocation
-
-  * [geocoder](https://github.com/alexreisner/geocoder) - A complete geocoding solution for Ruby. With Rails it adds geocoding (by street or IP address), reverse geocoding (find street address based on given coordinates), and distance queries.
-  * [Geokit](https://github.com/geokit/geokit) - Geokit gem provides geocoding and distance/heading calculations.
-  * [geoip](https://github.com/cjheath/geoip) - Searches a GeoIP database for a given host or IP address, and returns information about the country where the IP address is allocated, and the city, ISP and other information.
 
 ## Other Ruby Lists
 
