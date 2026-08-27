@@ -11,15 +11,15 @@ This list contains Golang libraries related to web scraping and data processing
    * [Natural Language Processing](#natural-language-processing)
    * [Browser automation and emulation](#browser-automation-and-emulation)
    * [Multiprocessing](#multiprocessing)
+   * [Asynchronous](#asynchronous)
    * [Queue](#queue)
    * [Email](#email)
    * [URL and Network Address Manipulation](#url-and-network-address-manipulation)
    * [Web Content Extracting](#web-content-extracting)
-   * [Asynchronous](#asynchronous)
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
    * [Proxy Server](#proxy-server)
-   * [Other Golang Lists](#other-Golang-lists)
+   * [Other Golang Lists](#other-golang-lists)
 
 ## Network
 * General

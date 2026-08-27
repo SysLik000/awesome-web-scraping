@@ -19,7 +19,7 @@ This list contains ruby libraries related to web scraping and data processing
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
    * [Geolocation](#geolocation)
-   * [Other Ruby Lists](#other-Ruby-lists)
+   * [Other Ruby Lists](#other-ruby-lists)
 
 ## Network
 

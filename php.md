@@ -11,16 +11,15 @@ This list contains PHP libraries related to web scraping and data processing
    * [Natural Language Processing](#natural-language-processing)
    * [Browser automation and emulation](#browser-automation-and-emulation)
    * [Multiprocessing](#multiprocessing)
+   * [Asynchronous](#asynchronous)
    * [Queue](#queue)
    * [Cloud Computing](#cloud-computing)
    * [Email](#email)
    * [URL Manipulation](#url-manipulation)
    * [Web Content Extracting](#web-content-extracting)
-   * [Asynchronous](#asynchronous)
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
    * [Geocoding](#geocoding)
-   * [API Clients](#api-clients)
    * [Other PHP Lists](#other-php-lists)
 
 

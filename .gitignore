@@ -2,3 +2,4 @@
 *.swo
 *.orig
 .idea
+node_modules/
