@@ -23,38 +23,38 @@ This list contains Java libraries related to web scraping and data processing
 
 ## Network
 * General
-  * [Apache HttpClient](https://hc.apache.org/)
-  * [okhttp3](http://square.github.io/okhttp/)
+  * [Apache HttpClient](https://hc.apache.org/) - HTTP client library from the Apache HttpComponents project
+  * [okhttp3](http://square.github.io/okhttp/) - HTTP client for Java and Android developed by Square
 * Asynchronous
-  * [Apache Async HttpClient](https://hc.apache.org/)
-  * [AsyncHttpClient](https://github.com/AsyncHttpClient/async-http-client)
+  * [Apache Async HttpClient](https://hc.apache.org/) - Asynchronous HTTP client built on HttpComponents Core
+  * [AsyncHttpClient](https://github.com/AsyncHttpClient/async-http-client) - Async HTTP and WebSocket client library
 
 ## Web-Scraping Frameworks
 * Full Featured Crawlers
-  * [ACHE Crawler](https://github.com/ViDA-NYU/ache)
-  * [Apache Nutch](http://nutch.apache.org/)
+  * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - Focused web crawler for domain specific data acquisition
+  * [Apache Nutch](http://nutch.apache.org/) - Highly extensible and scalable open source web crawler
 
 * Other
-  * [Crawler4j](https://github.com/yasserg/crawler4j)
-  * [StormCrawler](https://github.com/DigitalPebble/storm-crawler)
+  * [Crawler4j](https://github.com/yasserg/crawler4j) - Lightweight framework for building simple web crawlers
+  * [StormCrawler](https://github.com/DigitalPebble/storm-crawler) - Low latency web crawling toolkit built on Apache Storm
 
 ## HTML/XML Parsing
 
-* [Apache Tika](https://tika.apache.org/)
+* [Apache Tika](https://tika.apache.org/) - Content detection and analysis toolkit extracting text and metadata from documents
 
 ## Text Processing
 
 *Libraries for parsing and manipulating plain texts.*
 
 * General
-  * [Apache Tika](https://tika.apache.org/)
+  * [Apache Tika](https://tika.apache.org/) - Content detection and analysis toolkit extracting text and metadata from documents
 
 ## Specific Formats Processing
 
 *Libraries for parsing and manipulating specific text formats.*
 
 * General
-  * [Apache Tika](https://tika.apache.org/)
+  * [Apache Tika](https://tika.apache.org/) - Content detection and analysis toolkit extracting text and metadata from documents
 
 * Something
   * TODO
@@ -63,13 +63,13 @@ This list contains Java libraries related to web scraping and data processing
 
 *Libraries for working with human languages.*
 
-* [Apache OpenNLP](https://opennlp.apache.org/)
-* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
-* [Apache Tika](https://tika.apache.org/)
+* [Apache OpenNLP](https://opennlp.apache.org/) - Machine learning based natural language processing toolkit
+* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - Statistical NLP toolkit providing tokenization, parsing, and entity recognition
+* [Apache Tika](https://tika.apache.org/) - Content detection and analysis toolkit extracting text and metadata from documents
 
 ## Browser automation and emulation
 
-* [htmlunit](http://htmlunit.sourceforge.net/)
+* [htmlunit](http://htmlunit.sourceforge.net/) - Headless browser intended for testing web applications
 
 ## Multiprocessing
 
@@ -105,8 +105,8 @@ This list contains Java libraries related to web scraping and data processing
 *Libraries for extracting web contents.*
 
 * Text and Meta Data from HTML pages
-  * [Boilerpipe](https://github.com/kohlschutter/boilerpipe)
-  * [Apache Tika](https://tika.apache.org/)
+  * [Boilerpipe](https://github.com/kohlschutter/boilerpipe) - Boilerplate removal and full text extraction from HTML pages
+  * [Apache Tika](https://tika.apache.org/) - Content detection and analysis toolkit extracting text and metadata from documents
 
 
 ## WebSocket
@@ -117,8 +117,8 @@ This list contains Java libraries related to web scraping and data processing
 
 ## DNS Resolving
 
-* [dnsjava](http://www.dnsjava.org/)
-* [spotify-dns-java](https://github.com/spotify/dns-java)
+* [dnsjava](http://www.dnsjava.org/) - DNS protocol implementation and resolver library
+* [spotify-dns-java](https://github.com/spotify/dns-java) - Service discovery via DNS SRV record lookups
 
 ## Proxy Server
 
