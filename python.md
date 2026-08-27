@@ -370,6 +370,6 @@ event loops.*
 * [v8eval](https://github.com/sony/v8eval/) - Multi-language bindings to JavaScript engine V8
 
 ## Other Python Lists
-* [awesome-python](https://github.com/vinta/awesome-python)
-* [pycrumbs](https://github.com/kirang89/pycrumbs)
-* [pythonidae](https://github.com/svaksha/pythonidae)
+* [awesome-python](https://github.com/vinta/awesome-python) - general purpose curated list of awesome Python packages
+* [pycrumbs](https://github.com/kirang89/pycrumbs) - a collection of useful Python bits
+* [pythonidae](https://github.com/svaksha/pythonidae) - curated resources for scientific programming in Python

@@ -201,4 +201,4 @@ This list contains PHP libraries related to web scraping and data processing
 
 ## Other PHP lists
 
- * [awesome-php](https://github.com/ziadoz/awesome-php)
+ * [awesome-php](https://github.com/ziadoz/awesome-php) - general purpose curated list of awesome PHP packages

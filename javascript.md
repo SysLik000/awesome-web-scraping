@@ -212,4 +212,4 @@ This list contains JavaScript libraries related to web scraping and data process
 
 ## Other JavaScript lists
 
- * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+ * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - general purpose curated list of awesome JavaScript packages
