@@ -23,10 +23,10 @@ This list contains ruby libraries related to web scraping and data processing
 
 ## Network
 
-* [httparty](https://github.com/jnunemaker/httparty) Makes http fun again!
-* [http](https://github.com/tarcieri/http) A simple Ruby DSL for making HTTP requests
-* [excon](https://github.com/excon/excon) Usable, fast, simple HTTP(S) 1.1 for Ruby
-* [nestful](https://github.com/maccman/nestful) Simple Ruby HTTP/REST client with a sane API
+* [httparty](https://github.com/jnunemaker/httparty) - Makes http fun again!
+* [http](https://github.com/tarcieri/http) - A simple Ruby DSL for making HTTP requests
+* [excon](https://github.com/excon/excon) - Usable, fast, simple HTTP(S) 1.1 for Ruby
+* [nestful](https://github.com/maccman/nestful) - Simple Ruby HTTP/REST client with a sane API
 * [EM-HTTP-Request](https://github.com/igrigorik/em-http-request) - EventMachine based asynchronous HTTP client
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 * [Faraday](https://github.com/lostisland/faraday) - an HTTP client lib that provides a common interface over many adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle.
@@ -49,7 +49,7 @@ This list contains ruby libraries related to web scraping and data processing
   * [Anemone](https://github.com/chriskite/anemone) - web spider framework that can spider a domain and collect useful information about the pages it visits
   * [Spidr](https://github.com/postmodern/spidr) - versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
   * [kimuraframework](https://github.com/vifreefly/kimuraframework) - Modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites
-  * [arachnid2](https://github.com/samnissen/arachnid2) A simple, fast, framework-less crawler with sensible defaults and lots of options. Crawls the page and runs your code directly against either Typhoeus responses or a Watir browser.
+  * [arachnid2](https://github.com/samnissen/arachnid2) - A simple, fast, framework-less crawler with sensible defaults and lots of options. Crawls the page and runs your code directly against either Typhoeus responses or a Watir browser.
 
 ## HTML/XML Parsing
 
@@ -111,7 +111,7 @@ This list contains ruby libraries related to web scraping and data processing
 *Libraries for parsing and manipulating specific text formats.*
 
 * General
-  * [markup](https://github.com/github/markup) — GitHub library to convert mardown, rst, creole, etc into HTML
+  * [markup](https://github.com/github/markup) - GitHub library to convert mardown, rst, creole, etc into HTML
 * Office
   * [Yomu](https://github.com/Erol) - Read text and metadata from files and documents (.doc, .docx, .pages, .odt, .rtf, .pdf)
   * [spreadsheet](https://github.com/zdavatz/spreadsheet) - The Spreadsheet Library is designed to read and write Spreadsheet Documents.
@@ -127,10 +127,10 @@ This list contains ruby libraries related to web scraping and data processing
   * [PacketFul](https://github.com/packetfu/packetfu) - A library for reading and writing packets to an interface or to a libpcap-formatted file.
 * JSON
   * [JsonCompare](https://github.com/a2design-company/json-compare) - Returns the difference between two JSON files
-  * [JSON](https://github.com/flori/json) — includes pure Ruby and C implementation for JSON.
-  * [JSON::Stream](https://github.com/dgraham/json-stream) — a streaming JSON parser that generates SAX-like events.
-  * [YAJL](https://github.com/brianmario/yajl-ruby) — a streaming JSON parsing and encoding library for Ruby (C bindings to YAJL).
-  * [OJ](https://github.com/ohler55/oj) — Optimized JSON, as the name implies, was written to provide speed optimized JSON handling. So far it has achieved that, and is about 2 times faster than any other Ruby JSON parser, and 3 or more times faster at serializing JSON.
+  * [JSON](https://github.com/flori/json) - includes pure Ruby and C implementation for JSON.
+  * [JSON::Stream](https://github.com/dgraham/json-stream) - a streaming JSON parser that generates SAX-like events.
+  * [YAJL](https://github.com/brianmario/yajl-ruby) - a streaming JSON parsing and encoding library for Ruby (C bindings to YAJL).
+  * [OJ](https://github.com/ohler55/oj) - Optimized JSON, as the name implies, was written to provide speed optimized JSON handling. So far it has achieved that, and is about 2 times faster than any other Ruby JSON parser, and 3 or more times faster at serializing JSON.
 * Markdown
   * [kramdown](https://github.com/gettalong/kramdown) - Kramdown is yet-another-markdown-parser but fast, pure Ruby, using a strict syntax definition and supporting several common extensions.
   * [Maruku](https://github.com/bhollis/maruku) - A pure-Ruby Markdown-superset interpreter.
@@ -141,11 +141,11 @@ This list contains ruby libraries related to web scraping and data processing
   * [Ratom](https://github.com/seangeo/ratom) - A fast, libxml based, Ruby Atom library.
   * [Simple rss](https://github.com/cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
 * BSON
-  * [BSON](https://github.com/mongodb/bson-ruby) — Ruby implementation of the BSON Specification (2.0.0+), http://bsonspec.org
+  * [BSON](https://github.com/mongodb/bson-ruby) - Ruby implementation of the BSON Specification (2.0.0+), http://bsonspec.org
 * MessagePack
-  * [MessagePack](https://github.com/msgpack/msgpack-ruby) — an efficient binary serialization format. It lets you exchange data among multiple languages like JSON but it's faster and smaller. For example, small integers (like flags or error code) are encoded into a single byte, and typical short strings only require an extra byte in addition to the strings themselves. See http://msgpack.org
+  * [MessagePack](https://github.com/msgpack/msgpack-ruby) - an efficient binary serialization format. It lets you exchange data among multiple languages like JSON but it's faster and smaller. For example, small integers (like flags or error code) are encoded into a single byte, and typical short strings only require an extra byte in addition to the strings themselves. See http://msgpack.org
 * Protobuf
-  * [Protobuf](https://github.com/localshred/protobuf) — Ruby implementation for Protocol Buffers.
+  * [Protobuf](https://github.com/localshred/protobuf) - Ruby implementation for Protocol Buffers.
 * RDF
   * [rdf](https://github.com/ruby-rdf/rdf) - pure-Ruby library for working with Resource Description Framework (RDF) data
 
@@ -214,8 +214,8 @@ This list contains ruby libraries related to web scraping and data processing
 * [childprocess](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
 * [forkoff](https://github.com/ahoward/forkoff) - brain-dead simple parallel processing for ruby.
 * [posix-spawn](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces.
-* [thread](https://github.com/meh/ruby-thread) — extensions to the thread library (includes thread pool).
-* [Sprawling](https://github.com/dreikanter/ruby-bookmarks) — spawn gem for Rails to easily fork or thread long-running code blocks.
+* [thread](https://github.com/meh/ruby-thread) - extensions to the thread library (includes thread pool).
+* [Sprawling](https://github.com/dreikanter/ruby-bookmarks) - spawn gem for Rails to easily fork or thread long-running code blocks.
 
 
 ## Asynchronous
@@ -226,9 +226,9 @@ This list contains ruby libraries related to web scraping and data processing
 
 ## Queue
 
-  * [Resque](https://github.com/resque/resque) A Redis-backed Ruby library for creating background jobs, placing them on multiple queues.
-  * [Delayed::Job](https://github.com/tobi/delayed_job) — Database backed asynchronous priority queue.
-  * [Qu](https://github.com/bkeepers/qu) A Ruby library for queuing and processing background jobs.
+  * [Resque](https://github.com/resque/resque) - A Redis-backed Ruby library for creating background jobs, placing them on multiple queues.
+  * [Delayed::Job](https://github.com/tobi/delayed_job) - Database backed asynchronous priority queue.
+  * [Qu](https://github.com/bkeepers/qu) - A Ruby library for queuing and processing background jobs.
   * [Sidekiq](http://sidekiq.org) - A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
   * [Sneakers](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ
   * [Backburner](https://github.com/nesquena/backburner) - Backburner is a beanstalkd-powered job queue that can handle a very high volume of jobs.
@@ -241,7 +241,7 @@ This list contains ruby libraries related to web scraping and data processing
 
 *Libraries for parsing email.*
 
-  * [mail](https://github.com/mikel/mail) A Really Ruby Mail Library
+  * [mail](https://github.com/mikel/mail) - A Really Ruby Mail Library
 
 ## URL Manipulation
 
@@ -279,6 +279,6 @@ This list contains ruby libraries related to web scraping and data processing
 
 ## Other Ruby Lists
 
-* [awesome-ruby](https://github.com/markets/awesome-ruby/blob/master/README.md) by markets
-* [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) by Sdogruyol
+* [awesome-ruby](https://github.com/markets/awesome-ruby/blob/master/README.md) - by markets
+* [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) - by Sdogruyol
 * [ruby-nlp](https://github.com/diasks2/ruby-nlp) - a collection of Natural Language Processing (NLP) Ruby libraries, tools and software
