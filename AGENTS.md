@@ -10,6 +10,7 @@ Before working in this repository, read:
 - `spec/docs/conventions.md` — how the list documents are structured and formatted
 - `spec/docs/categories.md` — the canonical category tree shared by the lists
 - `spec/docs/tooling.md` — the markdown checker commands to run
+- `spec/docs/plan.md` — open tasks and pending decisions
 - `spec/docs/agent-workflow.md` — how to keep docs in sync with the
   implementation
 
