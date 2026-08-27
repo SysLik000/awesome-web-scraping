@@ -160,8 +160,8 @@ This list contains ruby libraries related to web scraping and data processing
   * [whatlanguage](https://github.com/peterc/whatlanguage) - a language detection library for Ruby that uses bloom filters for speed
   * [nlp](https://github.com/knife/nlp) - NLP tools for the Polish language
   * [NlpToolz](https://github.com/LeFnord/nlp_toolz) - Basic NLP tools, mostly based on OpenNLP, at this time sentence finder, tokenizer and POS tagger implemented, plus Berkeley Parser
-  * [Open NLP (Ruby bindings)](https://github.com/louismullie/open-nlp)
-  * [Stanford Core NLP (Ruby bindings)](https://github.com/louismullie/stanford-core-nlp)
+  * [Open NLP (Ruby bindings)](https://github.com/louismullie/open-nlp) - Ruby bindings for the Apache OpenNLP toolkit
+  * [Stanford Core NLP (Ruby bindings)](https://github.com/louismullie/stanford-core-nlp) - Ruby bindings for the Stanford CoreNLP pipeline
   * [ve](https://github.com/Kimtaro/ve) - a linguistic framework that's easy to use
   * [zipf](https://github.com/pks/zipf) - a collection of various NLP tools and libraries
   * [ruby-ner](https://github.com/mblongii/ruby-ner) - named entity recognition with Stanford NER and Ruby
@@ -172,11 +172,11 @@ This list contains ruby libraries related to web scraping and data processing
   * [rbtagger](http://rbtagger.rubyforge.org/) - a simple ruby rule-based part of speech tagger
   * [TreeTagger for Ruby](https://github.com/LeFnord/rstt) - Ruby based wrapper for the TreeTagger by Helmut Schmid
 * Sentence segmentation
-  * [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter)
-  * [Punkt Segmenter](https://github.com/lfcipriani/punkt-segmenter)
-  * [TactfulTokenizer](https://github.com/zencephalon/Tactful_Tokenizer)
-  * [Scapel](https://github.com/louismullie/scalpel)
-  * [SRX English](https://github.com/apohllo/srx-english)
+  * [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter) - Rule-based sentence boundary detection across many languages
+  * [Punkt Segmenter](https://github.com/lfcipriani/punkt-segmenter) - Ruby port of the Punkt unsupervised sentence tokenizer
+  * [TactfulTokenizer](https://github.com/zencephalon/Tactful_Tokenizer) - Decision tree based sentence tokenizer for English
+  * [Scalpel](https://github.com/louismullie/scalpel) - Ruby library for splitting text into sentences
+  * [SRX English](https://github.com/apohllo/srx-english) - Implementation of the SRX segmentation standard for English
 * Stemmers
   * [Greek stemmer](https://github.com/skroutz/greek_stemmer) - a Greek stemmer
   * [Ruby-Stemmer](https://github.com/aurelian/ruby-stemmer) - Ruby-Stemmer exposes the SnowBall API to Ruby
