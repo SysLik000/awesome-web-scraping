@@ -13,7 +13,6 @@ This list contains PHP libraries related to web scraping and data processing
    * [Multiprocessing](#multiprocessing)
    * [Asynchronous](#asynchronous)
    * [Queue](#queue)
-   * [Cloud Computing](#cloud-computing)
    * [Email](#email)
    * [URL Manipulation](#url-manipulation)
    * [Web Content Extracting](#web-content-extracting)
@@ -143,10 +142,6 @@ This list contains PHP libraries related to web scraping and data processing
 * [PHP AMQP](https://github.com/videlalvaro/php-amqplib) - A pure PHP AMQP library.
 * [Thumper](https://github.com/videlalvaro/Thumper) - A RabbitMQ pattern library.
 * [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
-
-
-## Cloud Computing
-* TODO
 
 
 ## Email
