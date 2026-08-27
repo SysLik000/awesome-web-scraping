@@ -1,26 +1,37 @@
 # Contributing Rules
 
-To add a new project to the awesome-web-scraping repo, you have to create a pull request.
+To add a new project to the awesome-web-scraping repo, you have to create a
+pull request. The full contribution workflow is documented in
+`spec/docs/contribution.md`.
 
-## How to create a pull request
+## How to Create a Pull Request
 
-* Clone the awesome-web-scraping repo
-* Add a new section if needed:
+* Fork and clone the awesome-web-scraping repo
+* Search previous suggestions before making a new one, as yours may be a duplicate
+* Choose the relevant language list for your entry: `python.md`, `php.md`,
+  `ruby.md`, `javascript.md`, `golang.md`, `java.md`, `cli.md`, or
+  `manuals.md`
+* Add a new section only if needed; align it with the canonical category
+  tree in `spec/docs/categories.md`:
     * Add a section description
     * Add a section title to the Table of Contents
-* Search previous suggestions before making a new one, as yours may be a duplicate
-* Add your link: `* [project-name](http://example.com/) - description of software`
-   * Description must be brief
-   * Description must be one line
-* **Append** your link to the end of the list - do not insert the link in the middle of the list
-* Check your spelling and grammar
-* Create a pull request. Specify what you have changed/added in a pull request's description.
+* Add your link: `* [project-name](https://example.com) - description of software`
+    * Description must be brief
+    * Description must be one line
+* **Append** your link to the end of the list - do not insert the link in the
+  middle of the list
+* Run `npm install` and `npm run check` locally before submitting; enable the
+  pre-commit hook with `git config core.hooksPath .githooks`
+* Create a pull request. Specify what you have changed/added in the pull
+  request's description.
+* Pull request text is scanned by CI for restricted words (currently `ai`,
+  `mcp`, `apify`); see `.github/workflows/check_pr.yml`.
 
-
-## Restricted content
+## Restricted Content
 
 The following content is restricted in this repo:
 
-* Web service / website / remote API - anything that is not standalone software
-* Fresh projects - any project whose age is less than half a year
-* Anything related to automation with an AI agent or the Model Context Protocol (MCP)
+* Web service / website / remote API - anything that is not standalone
+  software
+* Anything related to automation with an AI agent or the Model Context
+  Protocol (MCP)

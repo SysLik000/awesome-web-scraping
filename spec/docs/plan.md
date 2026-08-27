@@ -3,11 +3,6 @@
 Open tasks and deferred items for this repository. Each entry is either an
 explicitly planned feature or a decision flagged during earlier work.
 
-## Documentation
-
-- Write `spec/docs/contribution.md` (contribution workflow). Referenced as
-  planned from `AGENTS.md`; until written, `CONTRIBUTING.md` is the authority.
-
 ## Tooling
 
 - Add a CI workflow that runs `npm run check` on pull requests. The checks

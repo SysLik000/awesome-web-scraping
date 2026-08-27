@@ -14,7 +14,6 @@ restrictions; the authoritative rules live in `CONTRIBUTING.md`. In short, the
 following are not accepted:
 
 - Web services / websites / remote APIs — anything that is not standalone software
-- Fresh projects — anything younger than half a year
 - Anything related to automation with an AI agent or the Model Context Protocol (MCP)
 
 Contributions are made via pull requests. New entries are appended to the end
@@ -27,7 +26,7 @@ of the relevant list; they are never inserted into the middle of a list.
   Groups, and contribution instructions
 - `AGENTS.md` — Entry point for coding agents; points to the spec docs
 - `spec/docs/` — Specifications: overview, conventions, categories, tooling,
-  agent workflow
+  agent workflow, contribution workflow
 - `package.json` — Pins the Node tooling dependencies and `npm run check`
   scripts
 - `tools/` — Markdown checkers: `check-md.mjs`, `check-sync.mjs`, helpers

@@ -13,6 +13,7 @@ export const RESOURCE_LISTS = [
 export const INTERNAL_DOCS = [
   "AGENTS.md",
   "spec/docs/overview.md",
+  "spec/docs/contribution.md",
   "spec/docs/conventions.md",
   "spec/docs/categories.md",
   "spec/docs/agent-workflow.md",
