@@ -165,8 +165,8 @@ This list contains PHP libraries related to web scraping and data processing
 
 * [Purl](https://github.com/jwage/purl) - A URL manipulation library.
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
-* [Uri](https://github.com/thephpleague/uri) (The PHP League) - A simple URL manipulation library (PSR-7 compatible).
-* [Url](https://github.com/crwlrsoft/url) (crwlr) - Swiss Army knife for urls.
+* [Uri](https://github.com/thephpleague/uri) - (The PHP League) - A simple URL manipulation library (PSR-7 compatible).
+* [Url](https://github.com/crwlrsoft/url) - (crwlr) - Swiss Army knife for urls.
 
 
 ## Web Content Extracting
