@@ -160,7 +160,7 @@ This list contains Golang libraries related to web scraping and data processing
 *Libraries for parsing/modifying URLs and network addresses.*
 
 * URL
-  * [net/url](https://golang.org/pkg/net/url/)
+  * [net/url](https://golang.org/pkg/net/url/) - Standard library package for parsing and building URLs
 * Network Address
   * TODO
 
@@ -175,7 +175,7 @@ This list contains Golang libraries related to web scraping and data processing
 
 *Libraries for working with WebSocket.*
 
-* [gorilla/websocket](https://github.com/gorilla/websocket)
+* [gorilla/websocket](https://github.com/gorilla/websocket) - WebSocket protocol implementation for Go
 
 ## DNS Resolving
 
