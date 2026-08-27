@@ -13,7 +13,6 @@ This list contains PHP libraries related to web scraping and data processing
    * [Multiprocessing](#multiprocessing)
    * [Asynchronous](#asynchronous)
    * [Queue](#queue)
-   * [Email](#email)
    * [URL Manipulation](#url-manipulation)
    * [Web Content Extracting](#web-content-extracting)
    * [WebSocket](#websocket)
@@ -103,6 +102,8 @@ This list contains PHP libraries related to web scraping and data processing
   * [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
 * GeoJSON
   * [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
+* Email
+  * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 
 
 ## Natural Language Processing
@@ -144,12 +145,6 @@ This list contains PHP libraries related to web scraping and data processing
 * [Bernard](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
 
 
-## Email
-
-*Libraries for parsing email.*
-
-* [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
-* [Email Validator](https://github.com/nojacko/email-validator) - A small email address validation library.
 
 
 ## URL Manipulation

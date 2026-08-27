@@ -13,7 +13,6 @@ This list contains ruby libraries related to web scraping and data processing
    * [Multiprocessing](#multiprocessing)
    * [Asynchronous](#asynchronous)
    * [Queue](#queue)
-   * [Email](#email)
    * [URL Manipulation](#url-manipulation)
    * [Web Content Extracting](#web-content-extracting)
    * [WebSocket](#websocket)
@@ -235,12 +234,6 @@ This list contains ruby libraries related to web scraping and data processing
   * [Que](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
   * [Shoryuken](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
   * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) - A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
-
-## Email
-
-*Libraries for parsing email.*
-
-  * [mail](https://github.com/mikel/mail) - A Really Ruby Mail Library
 
 ## URL Manipulation
 

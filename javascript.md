@@ -13,7 +13,6 @@ This list contains JavaScript libraries related to web scraping and data process
    * [Multiprocessing](#multiprocessing)
    * [Asynchronous](#asynchronous)
    * [Queue](#queue)
-   * [Email](#email)
    * [URL and Network Address Manipulation](#url-and-network-address-manipulation)
    * [Web Content Extracting](#web-content-extracting)
    * [WebSocket](#websocket)
@@ -110,6 +109,8 @@ This list contains JavaScript libraries related to web scraping and data process
   * [node-feedparser](https://github.com/danmactough/node-feedparser) - Robust RSS, Atom, and RDF feed parsing in Node.js
 * Netscape Bookmarks(Firefox, Google Chrome, ...)
   * [node-bookmarks-parser](https://github.com/calibr/node-bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
+* Email
+  * [mailparser](https://github.com/andris9/mailparser) - Decode mime formatted e-mails
 
 ## Natural Language Processing
 
@@ -159,12 +160,6 @@ This list contains JavaScript libraries related to web scraping and data process
 ## Queue
   * [kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js
   * [bull](https://github.com/OptimalBits/bull) - A lightweight, robust and fast job processing queue. Carefully written for rock solid stability and atomicity.
-
-## Email
-
-*Libraries for parsing email.*
-
-  * [mailparser](https://github.com/andris9/mailparser) - Decode mime formatted e-mails
 
 ## URL and Network Address Manipulation
 

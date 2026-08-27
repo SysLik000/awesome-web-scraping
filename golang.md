@@ -13,7 +13,6 @@ This list contains Golang libraries related to web scraping and data processing
    * [Multiprocessing](#multiprocessing)
    * [Asynchronous](#asynchronous)
    * [Queue](#queue)
-   * [Email](#email)
    * [URL and Network Address Manipulation](#url-and-network-address-manipulation)
    * [Web Content Extracting](#web-content-extracting)
    * [WebSocket](#websocket)
@@ -88,6 +87,9 @@ This list contains Golang libraries related to web scraping and data processing
   * [xpath](https://github.com/antchfx/xpath) - XPath package for Go.
   * [xquery](https://github.com/antchfx/xquery) - XQuery lets you extract data from HTML/XML documents using XPath expression.
 
+* Email
+  * [go-message](https://github.com/emersion/go-message) - A streaming library for the Internet Message Format and mail messages
+
 ## Natural Language Processing
 
 *Libraries for working with human languages.*
@@ -137,22 +139,6 @@ This list contains Golang libraries related to web scraping and data processing
 
 * [NSQ](https://github.com/nsqio/nsq) - A realtime distributed messaging platform.
 * [NATS](https://github.com/nats-io/go-nats) - Golang client for NATS, the cloud native messaging system.
-
-## Email
-
-*Libraries for parsing email.*
-
-* [douceur](https://github.com/aymerick/douceur) - CSS inliner for your HTML emails.
-* [email](https://github.com/jordan-wright/email) - A robust and flexible email library for Go.
-* [go-dkim](https://github.com/toorop/go-dkim) - A DKIM library, to sign & verify email.
-* [go-imap](https://github.com/emersion/go-imap) - An IMAP library for clients and servers
-* [go-message](https://github.com/emersion/go-message) - A streaming library for the Internet Message Format and mail messages
-* [Gomail](https://github.com/go-gomail/gomail/) - Gomail is a very simple and powerful package to send emails.
-* [Hectane](https://github.com/hectane/hectane) - Lightweight SMTP client providing an HTTP API
-* [hermes](https://github.com/matcornic/hermes) - Golang package that generates clean, responsive HTML e-mails
-* [MailHog](https://github.com/mailhog/MailHog) - Email and SMTP testing with web and API interface
-* [SendGrid](https://github.com/sendgrid/sendgrid-go) - SendGrid's Go library for sending email
-* [smtp](https://github.com/mailhog/smtp) - SMTP server protocol state machine
 
 ## URL and Network Address Manipulation
 

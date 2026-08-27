@@ -13,7 +13,6 @@ This list contains Java libraries related to web scraping and data processing
    * [Multiprocessing](#multiprocessing)
    * [Asynchronous](#asynchronous)
    * [Queue](#queue)
-   * [Email](#email)
    * [URL and Network Address Manipulation](#url-and-network-address-manipulation)
    * [Web Content Extracting](#web-content-extracting)
    * [WebSocket](#websocket)
@@ -81,12 +80,6 @@ This list contains Java libraries related to web scraping and data processing
 * TODO
 
 ## Queue
-
-* TODO
-
-## Email
-
-*Libraries for parsing email.*
 
 * TODO
 
