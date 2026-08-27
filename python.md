@@ -17,6 +17,7 @@ This list contains python libraries related to web scraping and data processing
 * [Concurrency](#concurrency)
 * [URL and Network Address](#url-and-network-address)
 * [Account Management](#account-management)
+* [Proxy Tools](#proxy-tools)
 * [Proxy Server](#proxy-server)
 * [Whois](#whois)
 * [JavaScript Engine](#javascript-engine)
@@ -355,9 +356,11 @@ event loops.*
 ## Account Management
 * [ninjemail](https://github.com/david96182/ninjemail) - Python library for automated email account creation for different providers.
 
-## Proxy Server
+## Proxy Tools
 * [scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans
 * [ProxyBroker](https://github.com/constverum/Proxybroker) - Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS
+
+## Proxy Server
 * [shadowsocks](https://github.com/shadowsocks/shadowsocks) - A fast tunnel proxy that helps you bypass firewalls (TCP & UDP support, User management API, TCP Fast Open, Workers and graceful restart, Destination IP blacklist)
 * [tproxy](https://github.com/benoitc/tproxy) - tproxy is a simple TCP routing proxy (layer 7) built on Gevent that lets you configure the routine logic in Python
 * [ProxyForFree](https://github.com/vsmutok/ProxyForFree) - Python tool and FastAPI service to manage multiple local proxy servers routed through free OpenVPN configurations.

@@ -85,7 +85,7 @@ for (const f of RESOURCE_LISTS) {
 // --- canon cross-check (python.md, reference implementation) ---
 const canon = readFileSync("spec/docs/categories.md", "utf8")
 const canonNames = [...canon.matchAll(/^\d+\.\s+\*\*(.+?)\*\*/gm)].map((m) => m[1])
-const standing = ["Proxy Server", "Whois", "JavaScript Engine"]
+const standing = ["Proxy Tools", "Proxy Server", "Whois", "JavaScript Engine"]
 
 const py = analyze("python.md")
 const pyHeadings = py.headings
