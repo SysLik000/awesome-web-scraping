@@ -19,7 +19,6 @@ This list contains JavaScript libraries related to web scraping and data process
    * [WebSocket](#websocket)
    * [DNS Resolving](#dns-resolving)
    * [Proxy Server](#proxy-server)
-   * [Data Structure](#data-structure)
    * [Captcha Solving](#captcha-solving)
    * [Other JavaScript Lists](#other-javascript-lists)
 
@@ -202,10 +201,6 @@ This list contains JavaScript libraries related to web scraping and data process
 ## Proxy Server
   * [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate server failure scenarios and unexpected network conditions
   * [proxy-chain](https://github.com/apifytech/proxy-chain) - Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining
-
-## Data Structure
-* [immutable](https://github.com/facebook/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-* [lodash](https://github.com/lodash/lodash) - More consistent cross-environment iteration support for arrays, strings, objects, and arguments objects
 
 ## Captcha Solving
 * [capmonster-nodejs-captcha-solver](https://github.com/CapMonsterCloud/capmonster-nodejs-captcha-solver) - Node.js library for automating CAPTCHA solving with CapMonster Cloud API
