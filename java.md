@@ -20,7 +20,6 @@ This list contains Java libraries related to web scraping and data processing
 
 ### Network : General
 * [Apache HttpClient](https://hc.apache.org/) - HTTP client library from the Apache HttpComponents project
-* [okhttp3](http://square.github.io/okhttp/) - HTTP client for Java and Android developed by Square
 
 ### Network : Asynchronous
 * [Apache Async HttpClient](https://hc.apache.org/) - Asynchronous HTTP client built on HttpComponents Core
