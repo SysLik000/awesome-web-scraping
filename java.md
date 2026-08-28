@@ -29,7 +29,7 @@ This list contains Java libraries related to web scraping and data processing
 * TODO
 
 ### Network : DNS
-* [dnsjava](http://www.dnsjava.org/) - DNS protocol implementation and resolver library
+* [dnsjava](https://github.com/dnsjava/dnsjava) - DNS protocol implementation and resolver library
 * [spotify-dns-java](https://github.com/spotify/dns-java) - Service discovery via DNS SRV record lookups
 
 ## Web Scraping
