@@ -10,6 +10,8 @@ those documents state the rules, this one explains how to run them.
   any check fails.
 - `npm run check:md` — run only the content checks.
 - `npm run check:sync` — run only the table-of-contents and canon checks.
+- `npm run check:links` — manual link check (requires `lychee`); not part of
+  `npm run check`.
 
 The tooling runs on Node.js. Dependencies are pinned exactly in
 `package-lock.json`; install with `npm install` before first use.
@@ -58,14 +60,19 @@ individually.
 
 ## Link Checking (manual)
 
-Dead links in the lists can be checked with `lychee`:
+Dead links in the lists can be checked by hand with either `make
+check-links` or `npm run check:links`. The Makefile target runs `lychee`
+directly and shows a progress bar; the npm script adds `--no-progress` for
+non-interactive shells.
 
-```
-lychee *.md --no-progress
-```
+`lychee.toml` configures the check: HEAD requests, and a concurrency cap of
+16 requests overall and 5 per host.
 
-This is intentionally a manual step: link rot is reported rather than
-blocked, so contributions are not held up by transient network failures.
+`lychee` must be installed separately; it is not an npm dependency. The
+check is intentionally manual and standalone: it is not part of `npm run
+check`, does not run in the pre-commit hook, and is not wired into CI.
+Link rot is reported rather than blocked, so contributions are not held up
+by transient network failures.
 
 ## Changing the Rules
 

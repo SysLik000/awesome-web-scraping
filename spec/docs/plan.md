@@ -7,8 +7,8 @@ explicitly planned feature or a decision flagged during earlier work.
 
 - Add a CI workflow that runs `npm run check` on pull requests. The checks
   currently run only through the pre-commit hook.
-- Wire the `lychee` link checker into CI. It is currently a manual command
-  documented in `spec/docs/tooling.md`.
+- Link checking via `npm run check:links` stays manual-only by decision; it
+  is not wired into CI.
 
 ## Content Decisions
 

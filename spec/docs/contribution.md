@@ -61,7 +61,7 @@ checks on staged files and is enabled per repository:
 git config core.hooksPath .githooks
 ```
 
-Link rot is checked manually with `lychee *.md --no-progress`; it is
+Dead links can be checked manually with `npm run check:links`; it is
 reporting-only and does not block contributions.
 
 ## Submitting a Pull Request

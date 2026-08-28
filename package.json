@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "check": "node tools/check-md.mjs && node tools/check-sync.mjs",
+    "check:links": "lychee *.md --no-progress",
     "check:md": "node tools/check-md.mjs",
     "check:sync": "node tools/check-sync.mjs"
   },
