@@ -289,7 +289,7 @@ Libraries for working with human languages.
 * [pefile](https://github.com/erocarrera/pefile) - A multi-platform module to parse and work with Portable Executable (aka PE) files.
 
 ### Structured Formats : PSD
-* [psd-tools](https://github.com/kmike/psd-tools) - reading Adobe Photoshop PSD files (as described in [specification](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)) to Python data structures.
+* [psd-tools](https://github.com/kmike/psd-tools) - reading Adobe Photoshop PSD files
 
 ### Structured Formats : Bookmarks File
 * [bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
