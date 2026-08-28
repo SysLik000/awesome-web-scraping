@@ -40,7 +40,6 @@ This list contains ruby libraries related to web scraping and data processing
 ### Network : WebSocket
 * [em-websocket](https://github.com/igrigorik/em-websocket) - EventMachine based WebSocket server
 * [Faye](http://faye.jcoglan.com/ruby.html) - A set of tools for simple publish-subscribe messaging between web clients.
-* [Firehose](https://github.com/polleverywhere/firehose) - Build realtime Ruby web applications.
 * [Slanger](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.
 
 ### Network : DNS
@@ -157,7 +156,6 @@ This list contains ruby libraries related to web scraping and data processing
 
 ### Natural Language Processing : Part-of-Speech Tagger
 * [engtagger](https://github.com/yohasebe/engtagger) - English Part-of-Speech Tagger Library; a Ruby port of Lingua::EN::Tagger
-* [rbtagger](http://rbtagger.rubyforge.org/) - a simple ruby rule-based part of speech tagger
 * [TreeTagger for Ruby](https://github.com/LeFnord/rstt) - Ruby based wrapper for the TreeTagger by Helmut Schmid
 
 ### Natural Language Processing : Sentence segmentation
