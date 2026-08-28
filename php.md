@@ -123,9 +123,6 @@ This list contains PHP libraries related to web scraping and data processing
 ### Structured Formats : BBCode
 * [Decoda](https://github.com/milesj/decoda) - A lightweight lexical string parser for BBCode styled markup.
 
-### Structured Formats : JSON
-* [JsonMapper](https://github.com/netresearch/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
-
 ### Structured Formats : vCard
 * [vobject](https://github.com/fruux/sabre-vobject) - The VObject library allows you to easily parse and manipulate iCalendar and vCard objects.
 
