@@ -56,7 +56,6 @@ This list contains python libraries related to web scraping and data processing
 Libraries for working with WebSocket.
 
 * [Crossbar](https://github.com/crossbario/crossbar/) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn).
-* [AutobahnPython](https://github.com/tavendo/AutobahnPython) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
 * [WebSocket-for-Python](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy.
 
 ### Network : DNS
@@ -102,7 +101,7 @@ Libraries for working with WebSocket.
 * [cssselect](https://github.com/scrapy/cssselect) - working with DOM tree with CSS selectors
 * [pyquery](https://github.com/gawel/pyquery) - working with DOM tree with jQuery-like selectors
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) - slow HTML/XMl processing library, written in pure python
-* [html5lib](https://github.com/html5lib/html5lib-python) - builds DOM of HTML/XML document according to [WHATWG spec](url=http://www.whatwg.org/). That spec is used in all modern browsers.
+* [html5lib](https://github.com/html5lib/html5lib-python) - builds DOM of HTML/XML document according to [WHATWG spec](http://www.whatwg.org/). That spec is used in all modern browsers.
 * [brutefeedparser](https://github.com/rumca-js/brutefeedparser) - parsing of RSS/ATOM feeds.
 * [MarkupSafe](https://github.com/mitsuhiko/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
 * [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
@@ -151,7 +150,6 @@ Libraries for working with WebSocket.
 
 ### Browser Automation : Drivers
 * [selenium](http://selenium-python.readthedocs.io/) - automating real browsers (Chrome, Firefox, Opera, IE)
-* [Ghost.py](http://carrerasrodrigo.github.io/Ghost.py/) - wrapper of QtWebKit (requires PyQT)
 * [Spynner](https://github.com/makinacorpus/spynner) - wrapper of QtWebKit QtWebKit (requires PyQT)
 * [Splinter](https://github.com/cobrateam/splinter) - universal API to browser emulators (selenium webdrivers, django client, zope)
 * [Requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
@@ -291,7 +289,7 @@ Libraries for working with human languages.
 * [pefile](https://github.com/erocarrera/pefile) - A multi-platform module to parse and work with Portable Executable (aka PE) files.
 
 ### Structured Formats : PSD
-* [psd-tools](https://github.com/kmike/psd-tools) - reading Adobe Photoshop PSD files (as described in [specification](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/PhotoshopFileFormats.htm)) to Python data structures.
+* [psd-tools](https://github.com/kmike/psd-tools) - reading Adobe Photoshop PSD files (as described in [specification](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)) to Python data structures.
 
 ### Structured Formats : Bookmarks File
 * [bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - Parses Firefox/Chrome HTML bookmarks files
@@ -329,7 +327,7 @@ event loops.*
 * [multiprocessing](http://docs.python.org/3/library/multiprocessing.html) - standard python library to run processes.
 * [concurrent-futures](https://docs.python.org/3/library/concurrent.futures.html) - The concurrent.futures module provides a high-level interface for asynchronously executing callables.
 * [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library in Python 3.4+) Asynchronous I/O, event loop, coroutines and tasks.
-* [Twisted](https://twistedmatrix.com/trac/) - An event-driven networking engine.
+* [Twisted](https://github.com/twisted/twisted) - An event-driven networking engine.
 * [Tornado](http://www.tornadoweb.org/) - A Web framework and asynchronous networking library.
 * [pulsar](https://github.com/quantmind/pulsar) - Event-driven concurrent framework for Python.
 * [diesel](https://github.com/jamwt/diesel) - Greenlet-based event I/O Framework for Python.
