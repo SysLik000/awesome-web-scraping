@@ -68,5 +68,3 @@ reporting-only and does not block contributions.
 
 - Create the pull request against the default branch.
 - Describe what was added or changed in the pull request body.
-- CI runs on the pull request: `check_pr.yml` rejects PRs containing
-  restricted words.

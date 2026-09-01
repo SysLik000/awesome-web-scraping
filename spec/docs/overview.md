@@ -40,8 +40,6 @@ of the relevant list; they are never inserted into the middle of a list.
 - `cli.md` — Command-line tools
 - `manuals.md` — Articles and books teaching web scraping
 - `CONTRIBUTING.md` — Contribution rules
-- `.github/workflows/check_pr.yml` — CI workflow that rejects PRs containing
-  restricted words
 - `.gitignore` — Ignores editor artifacts
 
 ## How the List Is Organized

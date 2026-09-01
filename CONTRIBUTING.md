@@ -24,8 +24,6 @@ pull request. The full contribution workflow is documented in
   pre-commit hook with `git config core.hooksPath .githooks`
 * Create a pull request. Specify what you have changed/added in the pull
   request's description.
-* Pull request text is scanned by CI for restricted words (currently `ai`,
-  `mcp`, `apify`); see `.github/workflows/check_pr.yml`.
 
 ## Restricted Content
 

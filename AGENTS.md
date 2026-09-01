@@ -15,5 +15,5 @@ Before working in this repository, read:
 - `spec/docs/agent-workflow.md` — how to keep docs in sync with the
   implementation
 
-Note: `CONTRIBUTING.md` holds the contribution rules and CI behavior;
-`spec/docs/contribution.md` describes the contribution workflow.
+Note: `CONTRIBUTING.md` holds the contribution rules; `spec/docs/contribution.md`
+describes the contribution workflow.
