@@ -68,3 +68,5 @@ reporting-only and does not block contributions.
 
 - Create the pull request against the default branch.
 - Describe what was added or changed in the pull request body.
+- CI runs on the pull request: `check_repo_age.yml` comments if any proposed
+  GitHub repo is younger than a month.

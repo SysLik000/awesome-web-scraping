@@ -74,6 +74,23 @@ check`, does not run in the pre-commit hook, and is not wired into CI.
 Link rot is reported rather than blocked, so contributions are not held up
 by transient network failures.
 
+## Repo Age Check (CI)
+
+`tools/check-repo-age.mjs` is a CI helper, not part of `npm run check`. It
+runs in `.github/workflows/check_repo_age.yml` on pull requests and:
+
+- Fetches the PR diff via the GitHub API and collects `github.com/owner/repo`
+  links from newly added resource-list lines.
+- Looks up each repo's creation date and flags any younger than
+  `MIN_AGE_DAYS` (default 30).
+- Posts a warning comment on the PR (marker `<!-- repo-age-check -->`) and
+  updates or removes it on later pushes so the thread stays current.
+
+It requires a GitHub token and network access, so it only runs in CI; run it
+locally with the environment variables `GITHUB_TOKEN`,
+`GITHUB_REPOSITORY_OWNER`, `GITHUB_REPOSITORY_NAME`, `PR_NUMBER`, and
+optionally `MIN_AGE_DAYS`.
+
 ## Changing the Rules
 
 The specification documents are the source of truth. When a convention

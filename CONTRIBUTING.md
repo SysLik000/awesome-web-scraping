@@ -24,6 +24,8 @@ pull request. The full contribution workflow is documented in
   pre-commit hook with `git config core.hooksPath .githooks`
 * Create a pull request. Specify what you have changed/added in the pull
   request's description.
+* CI comments on the pull request if any proposed GitHub repo is younger
+  than a month; see `.github/workflows/check_repo_age.yml`.
 
 ## Restricted Content
 
