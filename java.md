@@ -37,6 +37,7 @@ This list contains Java libraries related to web scraping and data processing
 ### Web Scraping : Frameworks
 * [ACHE Crawler](https://github.com/ViDA-NYU/ache) - Focused web crawler for domain specific data acquisition
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible and scalable open source web crawler
+* [Norconex Crawler](https://github.com/Norconex/crawler) - Modular web and file-system crawler with official Docker images and a browser-based configurator
 
 ### Web Scraping : Tools
 * [Crawler4j](https://github.com/yasserg/crawler4j) - Lightweight framework for building simple web crawlers
